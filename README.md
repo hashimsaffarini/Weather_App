@@ -16,6 +16,4 @@ View current weather and forecasts for any location with ease.
 
 Contributions are welcome!
 
-## License
 
-This project is licensed under the MIT License.
