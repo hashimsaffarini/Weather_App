@@ -1,16 +1,19 @@
-# weather_app
+# Flutter Weather App
 
-A new Flutter project.
+A Flutter application for tracking weather conditions with multi-screen navigation and advanced state management.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Multi-screen navigation
+- Advanced state management
+- Real-time weather updates
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+View current weather and forecasts for any location with ease.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+Contributions are welcome!
+
+
